@@ -15,11 +15,12 @@ El servidor está desarrollado en Node.js utilizando Express para servir el cont
 ## 📁 Estructura del proyecto
 
 ```
-/SDAW_Angeles
+/SDAW_3804
 ├── index.html        # Página principal con un botón
 ├── script.js         # Lógica JS que muestra la alerta
 ├── server.js         # Servidor Node.js con Express
 ├── package.json      # Configuración del proyecto y dependencias
+├── package-lock.json # Controla las versiones exactas de las dependencias instaladas
 ├── README.md         # Documentación del proyecto
 └── .gitignore        # Archivos excluidos de Git
 ```
@@ -93,8 +94,8 @@ Este proyecto me ha permitido practicar la estructura básica de una aplicación
 ---
 
 ## ✅ Créditos
-Proyecto desarrollado por Ángeles para la asignatura SDAW.
+Proyecto desarrollado por Ángeles para el módulo DAW.
 
 
 ### Notas adicionales
-Este proyecto forma parte de la tarea de SDAW y sirve para practicar Git, Node.js y Express.
+Este proyecto forma parte de la tarea de Despliegue de Aplicaciones Web (DAW) y sirve para practicar Git, Node.js y Express.
