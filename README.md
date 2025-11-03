@@ -81,9 +81,16 @@ app.use(express.static(__dirname));
 ```
 git init
 git add .
-git commit -m "Inicialización del proyecto SDAW"
+git commit -m "Inicialización del proyecto Git de DAW"
 git remote add origin <URL-del-repo>
 git push -u origin main
+```
+
+```
+Los comandos de seguimiento (git status, git diff, git log) y los de
+restauración (git restore, git revert) deben utilizarse antes de
+ejecutar git push, ya que permiten revisar y corregir cambios localmente 
+antes de enviarlos al repositorio remoto.
 ```
 
 ---
