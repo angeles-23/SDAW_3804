@@ -94,3 +94,7 @@ Este proyecto me ha permitido practicar la estructura básica de una aplicación
 
 ## ✅ Créditos
 Proyecto desarrollado por Ángeles para la asignatura SDAW.
+
+
+### Notas adicionales
+Este proyecto forma parte de la tarea de SDAW y sirve para practicar Git, Node.js y Express.
