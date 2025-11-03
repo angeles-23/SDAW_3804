@@ -106,3 +106,14 @@ Proyecto desarrollado por Ángeles para el módulo DAW.
 
 ### Notas adicionales
 Este proyecto forma parte de la tarea de Despliegue de Aplicaciones Web (DAW) y sirve para practicar Git, Node.js y Express.
+
+
+## Información técnica añadida desde rama 1
+En esta sección se describen los principales comandos de Git utilizados durante la práctica:
+
+- git init: Inicializa un repositorio Git en el directorio actual.
+- git add: Añade archivos al área de preparación (staging area) para el próximo commit.
+- git commit: Guarda los cambios añadidos al staging area en el historial del repositorio.
+- git branch: Muestra, crea o elimina ramas en el repositorio.
+- git merge: Combina los cambios de otra rama en la rama actual.
+- git push: Envía los commits locales al repositorio remoto.
