@@ -117,3 +117,7 @@ En esta sección se describen los principales comandos de Git utilizados durante
 - git branch: Muestra, crea o elimina ramas en el repositorio.
 - git merge: Combina los cambios de otra rama en la rama actual.
 - git push: Envía los commits locales al repositorio remoto.
+
+
+## Información técnica añadida desde rama 2
+1142319 Mensaje del último commit en rama2
